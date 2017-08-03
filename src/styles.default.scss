@@ -1,0 +1,12 @@
+/* Setup styles similar to React Native (using flexbox) */
+
+html, body, body * {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
